@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{7F0989AE-0EF5-46BE-8180-45B84AB95006}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Band.cs">
+    <Files>
+      <File FileName="BassPlayer.cs" Line="8" Column="6" />
+      <File FileName="Band.cs" Line="21" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MusiciansEx1" expanded="True">
+            <Node name="Musicians" expanded="True">
+              <Node name="Band.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Musicians PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

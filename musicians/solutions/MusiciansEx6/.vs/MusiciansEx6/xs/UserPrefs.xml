@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{7F0989AE-0EF5-46BE-8180-45B84AB95006}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Trianglist.cs">
+    <Files>
+      <File FileName="Trianglist.cs" Line="8" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MusiciansEx6" expanded="True">
+            <Node name="Musicians" expanded="True">
+              <Node name="Trianglist.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Musicians PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

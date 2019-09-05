@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Musicians", "Musicians.csproj", "{7F0989AE-0EF5-46BE-8180-45B84AB95006}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F0989AE-0EF5-46BE-8180-45B84AB95006}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{7F0989AE-0EF5-46BE-8180-45B84AB95006}.Debug|anycpu.Build.0 = Debug|anycpu
+		{7F0989AE-0EF5-46BE-8180-45B84AB95006}.Release|anycpu.ActiveCfg = Release|anycpu
+		{7F0989AE-0EF5-46BE-8180-45B84AB95006}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
