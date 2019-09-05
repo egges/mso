@@ -1,2 +1,2 @@
-# mso
-Examples and assignments for the MSO course
+# MSO
+Examples and assignments for the MSO course.
