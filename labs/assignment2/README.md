@@ -1,7 +1,7 @@
 # MSO Lab Assignment II
 
 ## Introduction
-In this assignment you will work in pairs to practice designing software. Start by reading the case study below. There are several parts that you will need to answer. Please write your report using the template included in Appendix E of this assignment.
+In this assignment you will work in pairs to practice designing software. Start by reading the case study below. There are several parts that you will need to answer. Please write your report using the template included in Appendix F of this assignment.
 
 ## Case study
 In this assignment, you will start design a (fragment of a) ticket machines for the Nederlandse Spoorwegen. For the sake of simplicity, we will ignore many of the issues surrounding the real ticket machines – such as the OV chipcard or various different kinds of railcards (such as trajectkaarten or jaarkaarten). Instead, we limit ourself to ticket vending machines where customers may purchase paper tickets for journeys within the Netherlands. Not too long ago, it was only possible to buy tickets in person at a ticket desk. In this case study, we will consider the initial design for a first ticket vending machine.
