@@ -13,10 +13,10 @@ You should consult Chapter 6 of Craig Larman’s *Applying UML and Patterns*, al
 
 ### Part 1
 To get you started, answer the following questions:
-1. Name at least four different actors related to the submit system.
-2. Name at least four different stakeholders involved with the submit system’s development.
+1. Name at least four different actors related to the assignment submission system.
+2. Name at least four different stakeholders involved with the assignment submission system’s development.
 
-Explain what role each of these actors and stakeholders have in the usage and development of the assignment submissino system.
+Explain what role each of these actors and stakeholders have in the usage and development of the assignment submission system.
 
 ### Part 2
 One obvious use case of the submission system is that a student submits her solution to an assignment. Identify at least four other use cases and give a casual description of them.
@@ -25,7 +25,7 @@ One obvious use case of the submission system is that a student submits her solu
 Write a fully-dressed description of the submission use case. What exceptional scenarios could occur? Be sure to adhere to Larman’s guidelines for fully-dressed use cases in Chapter 6.
 
 ### Part 4
-Use cases are a great way to document the functional requirements of the sys- tem. What other (non-functional) requirements can you come up with? Give a (partial) supplementary specification for the assignment submission system. Use the example from section 7.2 of (the Second Edition of) Larman’s book as a template. *(Note: this is Section 7.4 in the more recent Third Edition)*.
+Use cases are a great way to document the functional requirements of the system. What other (non-functional) requirements can you come up with? Give a (partial) supplementary specification for the assignment submission system. Use the example from section 7.2 of (the Second Edition of) Larman’s book as a template. *(Note: this is Section 7.4 in the more recent Third Edition)*.
 
 ## Submission
 Bundle your solution in a single .pdf requirements document. Submit this document via Blackboard. Consult the course planning for the deadline.
