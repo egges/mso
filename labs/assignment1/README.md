@@ -9,7 +9,7 @@ In this assignment, your goal is to write (part of the) requirements for a new o
 
 Lecturers can define assigments; students can submit their solution; student assistants can download these solutions and grade them. Once all assignments have been graded, these grades need to be communicated to the students. In a single period many different courses will use the assignment submission system; each course may have different assignments with different deadlines.
 
-You should consult Chapter 6 of Craig Larman’s *Applying UML and Patterns*, along with the material listed on the MSO Blackboard page, for guidelines and examples of use cases. There are some informal use cases and scenarios in the supporting lecture slides, but a fully-dressed use case has much more information. Chapter 7 contains an example of a supplementary specification document, that you will also need to write.
+You should consult Chapter 6 of Craig Larman’s *Applying UML and Patterns*, along with the material listed on the MSO Blackboard page and the slides, for guidelines and examples of use cases. There are some informal use cases and scenarios in the supporting lecture slides, but a fully-dressed use case has much more information. Chapter 7 contains an example of a supplementary specification document, that you will also need to write.
 
 ### Part 1
 To get you started, answer the following questions:
