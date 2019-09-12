@@ -28,7 +28,12 @@ Write a fully-dressed description of the submission use case. What exceptional s
 Use cases are a great way to document the functional requirements of the system. What other (non-functional) requirements can you come up with? Give a (partial) supplementary specification for the assignment submission system. Use the example from section 7.2 of (the Second Edition of) Larman’s book as a template. *(Note: this is Section 7.4 in the more recent Third Edition)*.
 
 ## Submission
-Bundle your solution in a single .pdf requirements document. Submit this document via Blackboard. Consult the course planning for the deadline.
+In order to avoid potential issues with Blackboard, the first lab assignment should be handed in by email, sent directly to the student assistants of this course. Depending on your pair number, you should send your assignment to the following student assistant:
+- Pairs 1-40: Beau Mahler (b.mahler@uu.nl)
+- Pairs 41-80: Yorick Kooij (J.H.Kooij@uu.nl)
+- Pairs 81-120: Werre Timmer (w.m.timmer@uu.nl)
+
+When you hand in the assignment, please make sure it is bundled as a single pdf file with the following name: “lastname1 \[studentid1\] - lastname2 \[studentid2\].pdf” with lastname[1,2] and studentid[1,2] replaced by you and your partner’s last name and student id. The deadline for handing in this first assignment in September 18, 2019 (midnight).
 
 ## Taal
 De opdracht mag zowel in het Engels als Nederlands worden gemaakt. Zorg er wel voor dat je de format van use cases en supplementary specification documenten, zoals beschreven in het boek van Larman, aanhoudt.
