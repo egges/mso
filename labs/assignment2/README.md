@@ -16,11 +16,11 @@ Write a fully-dressed description of the ticket purchasing use case. What except
 
 ### Part 2
 
-Use cases are a great way to document the functional requirements of the sys- tem. What other (non-functional) requirements can you come up with? Give a supplementary specification for the ticket machine. Use the example from section 7.2 of (the Second Edition of) Larman’s book as a template. *(Note: this is Section 7.4 in the more recent Third Edition).*
+Use cases are a great way to document the functional requirements of the system. What other (non-functional) requirements can you come up with? Give a supplementary specification for the ticket machine. Use the example from section 7.2 of (the Second Edition of) Larman’s book as a template. *(Note: this is Section 7.4 in the more recent Third Edition).*
 
 ### Part 3
 
-Based on the information given in these interviews, there may still be requirements that are unclear. What issues would you like to clarify in future discussions with these stakeholders? Explicitly state any assumptions that you make about the require- ments of the proposed system.
+Based on the information given in these interviews, there may still be requirements that are unclear. What issues would you like to clarify in future discussions with these stakeholders? Explicitly state any assumptions that you make about the requirements of the proposed system.
 
 ### Part 4
 
@@ -28,7 +28,7 @@ Based on these interviews, scenarios and use cases, draw a domain model. Be as e
 
 ### Part 5
 
-Use this domain model and the GRASP patterns to assign responsibilities asso- ciated with a ticket sale.
+Use this domain model and the GRASP patterns to assign responsibilities associated with a ticket sale.
 
 ### Part 6
 
