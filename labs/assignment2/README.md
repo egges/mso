@@ -32,7 +32,7 @@ Use this domain model and the GRASP patterns to assign responsibilities associat
 
 ### Part 6
 
-Design the software for the vending machine by giving a UML class diagram. You do not need to worry about the graphical user interface at this point. Instead fo- cus on identifying the classes and their relations relevant to the price calculation and printing of tickets. For each class, specify:
+Design the software for the vending machine by giving a UML class diagram. You do not need to worry about the graphical user interface at this point. Instead focus on identifying the classes and their relations relevant to the price calculation and printing of tickets. For each class, specify:
 - the attributes associated with the class;
 - the methods the class supports;
 - give a brief explanation of the abstract responsibilities assigned to every class;
