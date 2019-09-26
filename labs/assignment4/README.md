@@ -104,7 +104,7 @@ De opdracht mag zowel in het Engels als Nederlands worden gemaakt.
 | <student2_name> | <student2_id> |
 
 #### Design
-Describe your proposed design and how it differs from the current design.
+Describe your proposed design and how it differs from the current design. Include a UML diagram of your design.
 #### Design patterns
 Describe the design patterns that you have used.
 #### Evaluation
