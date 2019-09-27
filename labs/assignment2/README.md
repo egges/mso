@@ -55,7 +55,12 @@ Explicitly identify any design patterns that you have used. For each such patter
 Evaluate your design. Explain how it is capable of handling changing requirements. Identify at least three likely future changes to the specification. How will your design handle such changes? What kind of requirement changes would be difficult to incorporate?
 
 ## Submission
-Submit a single .pdf document via Blackboard, using the template in Appendix F. Consult the course planning for the deadline.
+This lab assignment should be handed in by email, to the student assistants of the course. Depending on your pair number, you should send your assignment to the following student assistant:
+- Pairs 1-40: Beau Mahler (b.mahler@uu.nl)
+- Pairs 41-80: Yorick Kooij (J.H.Kooij@uu.nl)
+- Pairs 81-120: Werre Timmer (w.m.timmer@uu.nl)
+
+When you hand in the assignment, please make sure it is bundled as a single pdf file with the following name: “lastname1 \[studentid1\] - lastname2 \[studentid2\].pdf” with lastname[1,2] and studentid[1,2] replaced by you and your partner’s last name and student id. The deadline for handing in this assignment is September 27, 2019 (midnight).
 
 ## Taal
 De opdracht mag zowel in het Engels als Nederlands worden gemaakt.
