@@ -26,7 +26,7 @@ looking for a comprehensive assessment of the shortcomings in your previous desi
 - What have you learned about your original design?
 
 ## Submission
-Submit your implementation of the train ticket software that corresponds to your original design. Also answer the questions above, using the template in the Appendix. Consult the course planning for the deadline.
+Submit your final implementation of the train ticket software, based on your origal design and adapted as needed. Also answer the questions above, using the template in the Appendix. Consult the course planning for the deadline.
 
 ## Taal
 De opdracht mag zowel in het Engels als Nederlands worden gemaakt.
