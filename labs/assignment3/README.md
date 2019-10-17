@@ -5,7 +5,7 @@ In this lab exercise, you will revisit your proposed design for the ticket machi
 
 ## Assignment
 
-In the previous lab exercise, you designed the core functionality of a trainticket machine. Start by extracting the file `lab3.zip` located in this folder. This zip file contains a simple C# Windows Form Application, implementing the core functionality of the train ticket system described in the previous exercise. The main computations happen in the `UI.cs` file – almost all the changes you will need to implement should be restricted to this file. You will, of course, also need to add new classes that you designed yourself.
+In the previous lab exercise, you designed the core functionality of a trainticket machine. The `template` folder contains a simple C# Windows Form Application, implementing the core functionality of the train ticket system described in the previous assignment. The main computations happen in the `UI.cs` file – almost all the changes you will need to implement should be restricted to this file. You will, of course, also need to add new classes that you designed yourself.
 
 ### Part 1
 
