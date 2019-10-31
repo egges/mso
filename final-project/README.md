@@ -28,7 +28,7 @@ In this assignment, you will design and implement the system as described above.
 
 ### Part I
 
-Perform a CVA (commonality/variation analysis) to determine the commonalities and the variations. Write this down in a matrix format.
+Perform a CVA (commonality/variation analysis) to determine the commonalities and the variations. Write this down in a table.
 
 ### Part II
 
@@ -48,7 +48,7 @@ Especially in the part of the application that deals with payment and handling o
 For each of the cases above, write a unit test that verifies that the application handles this case correctly. Define at least 3 more cases that the payment/order system should handle, and write unit tests for those as well.
 
 A few notes:
-- Use the assert mechanism as a part of the unit tests.
+- Use the assert mechanism as a part of the unit tests. It is highly recommended to use the built-in C# unit testing library.
 - Separate the test code from the application code, and make sure the tests can be run as an independent program.
 
 ### Part V
